@@ -1,6 +1,13 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This noteapp application was created as part of the follwing tutorial:
+
+- [Build a Full Stack React Application](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/?ref=gsrchandson&id=updated)
+
+Main technologies used were:
+
+- AWS Amplify, DynamoDB, CloudFormation, Lambda, S3, React, Git and Github.
+
 
 Currently, two official plugins are available:
 
